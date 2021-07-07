@@ -1,4 +1,5 @@
-<h2>こんにちは (Konnichi wa), I'm Emiri! 🇯🇵🇩🇪</h2>
+## こんにちは (Konnichi wa), I'm Emiri! 🇯🇵🇩🇪
+
 <img align='right' src="https://media.giphy.com/media/PflUjSyMJQgeJ8iOWf/giphy.gif" width="230">
 <p>A self-taught programmer who seeks an early transition to a <em>Front-End Web Developer</em>.</p>
 
@@ -28,8 +29,8 @@ const emiri = {
 
 ### <img src="https://media.giphy.com/media/YLxkiyH7rXlnZwPk7E/giphy.gif" width="50"> When I'm not coding, I like...
 
-<ul>
-  <li>Baking</li>
-  <li>Daydreaming</li>
-  <li>Watching Naruto (just started watching for the first time and can't stop watching!)</li>
-</ul>
+-   Baking
+-   Daydreaming
+-   Watching Naruto (just started watching for the first time and can't stop watching!)
+
+###### ✨This profile is inspired by [Thaiane Braga](https://github.com/Thaiane)
