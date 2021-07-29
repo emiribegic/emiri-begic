@@ -31,6 +31,6 @@ const emiri = {
 
 -   Baking
 -   Daydreaming
--   Watching Naruto (just started watching for the first time and can't stop watching!)
+-   If there is beach nearby, snorkeling too!
 
 ###### ✨This profile is inspired by [Thaiane Braga](https://github.com/Thaiane)
