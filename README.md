@@ -1,4 +1,6 @@
-## こんにちは (Konnichi wa), I'm Emiri! 🇯🇵🇩🇪
+## こんにちは (Konnichi wa), I'm Emiri!
+
+Born in 🇯🇵, currently in 🇩🇪
 
 <img align='right' src="https://media.giphy.com/media/PflUjSyMJQgeJ8iOWf/giphy.gif" width="230">
 <p>A self-taught programmer who seeks an early transition to a <em>Front-End Web Developer</em>.</p>
@@ -12,17 +14,18 @@ const emiri = {
 	pronouns: 'she' | 'her',
 	technologies: {
 		language: 'javascript',
-		frontEnd: ['React', 'SCSS', 'HTML', 'CSS'],
+		frontEnd: ['SCSS', 'HTML', 'CSS', 'React'],
 		backEnd: ['Node.js', 'Express.js'],
 		tools: [
 			'Webpack',
 			'npm',
+			'nvm',
 			'Git',
 			'GitHub',
 			'Heroku',
 			'Visual Studio Code',
 		],
-		currentlyLearning: 'Redux',
+		currentlyLearning: 'Angular', 'TypeScript', 'yarn',
 	},
 };
 ```
