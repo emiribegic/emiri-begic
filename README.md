@@ -3,7 +3,7 @@
 Born in 🇯🇵, currently in 🇩🇪
 
 <img align='right' src="https://media.giphy.com/media/PflUjSyMJQgeJ8iOWf/giphy.gif" width="230">
-<p>A self-taught programmer who made transition to a <em>Front-End Engineer</em>!</p>
+<p>A self-taught programmer who made transition to a <em>Junior Frontend Engineer</em>!</p>
 
 [![Linkedin: emiribegic](https://img.shields.io/badge/-emiribegic-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/emiribegic/)](https://www.linkedin.com/in/emiribegic/)
 
