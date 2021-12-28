@@ -25,7 +25,7 @@ const emiri = {
 			'Heroku',
 			'Visual Studio Code',
 		],
-		currentlyLearning: 'Angular', 'TypeScript', 'yarn',
+		currentlyLearning: 'Angular', 'TypeScript', 'RxJS', 'NgRx'
 	},
 };
 ```
